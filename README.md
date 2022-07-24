@@ -43,7 +43,7 @@ margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/CSS.PNG" width="100px"
+<img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/CSS.PNG" width="100px"
 float= "left"
 margin-top="15px"
 margin-right="10px"
