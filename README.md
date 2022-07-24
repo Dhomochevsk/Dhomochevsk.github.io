@@ -17,7 +17,7 @@ margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/CSS.PNG" width="100px"
+<img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/CSS.PNG" width="100px"
 float= "left"
 margin-top="15px"
 margin-right="10px"
@@ -51,7 +51,7 @@ margin-left= "10px">
 <h2>Mauricio Villafuerte</h2>
 <h3>Dhomochevsk</h3>
 
-Soy estudiante de Ingenieria y programador novato en entrenamiento
+Soy estudiante de Ingenieria y desarrollador principante de software, y el lenguaje de programacion que mejor uso es java segudo por html
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
